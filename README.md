@@ -1,2 +1,2 @@
 # ip-anonymizer
-A function for anonymizing IP-addresses for complying with the EU GDPR. 
+A simple PHP function for anonymizing IP-addresses in order to comply with the EU GDPR.
